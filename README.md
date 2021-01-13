@@ -1,11 +1,9 @@
 # Sudoku-Solver
 Sudoku Solver using backtracking in C++
-•	Tools Required
 
+•	Tools Required
 o	VS Code (Visual Studio Code)
 o	C/C++ Compiler and Debugger
-
-
 
 •	Configure Procedures
 o	Install VS Code (Visual Studio Code)
